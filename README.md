@@ -1,7 +1,7 @@
 [![PyPi Package Version](https://img.shields.io/badge/pypi-v.0.1.0-blue)](https://pypi.python.org/pypi/pyTelegramBotAPI)
 [![Supported Python versions](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue)](https://pypi.python.org/pypi/pyTelegramBotAPI)
 
-# <p align="center">pyTelegramBotAPI
+# <p align="center">pyZaloBotAPI
 
 ## Language Selection / Chọn Ngôn Ngữ
 
@@ -17,7 +17,7 @@
 
 ### Introduction
 
-Hello everyone, my name is KhoiHuynh1109. Because when using **Zalo**, I met a friend who used his account as a bot that is actually similar to a **Telegram** bot with the `pyTelegramBotAPI` module. So, I was very interested and consulted his method and decided to create a module that looks exactly like a `telebot` called `zalobot` but has certain limited functions due to processing requirements as well as limitations about **Zalo's** mechanism.
+Hello everyone, my name is KhoiHuynh1109. Because when using **Zalo**, I met a friend who used his account as a bot that is actually similar to a **Telegram** bot with the [`pyTelegramBotAPI`](https://github.com/eternnoir/pyTelegramBotAPI) module. So, I was very interested and consulted his method and decided to create a module that looks exactly like a `telebot` called `zalobot` but has certain limited functions due to processing requirements as well as limitations about **Zalo's** mechanism.
 
 ### Getting started
 This API is tested with Python 3.8-3.11 and Pypy 3. There are two ways to install the library:
@@ -43,7 +43,7 @@ pip install pyZaloBotAPI --upgrade
 * [Giới thiệu](#giới-thiệu)
 * [Bắt đầu](#bắt-đầu)
 ### Giới thiệu
-Xin chào mọi người, mình tên KhôiHuynh1109. Bởi vì khi sử dụng **Zalo**, tôi gặp một người bạn sử dụng tài khoản của mình làm bot thực sự giống với bot **Telegram** với mô-đun `pyTelegramBotAPI`. Vì vậy, tôi rất thích thú và tham khảo ý kiến ​​phương pháp của anh và quyết định tạo ra một mô-đun trông giống hệt một `telebot` tên là `zalobot` nhưng có một số chức năng hạn chế nhất định do yêu cầu xử lý cũng như hạn chế về cơ chế **Zalo**. 
+Xin chào mọi người, mình tên KhôiHuynh1109. Bởi vì khi sử dụng **Zalo**, tôi gặp một người bạn sử dụng tài khoản của mình làm bot thực sự giống với bot **Telegram** với mô-đun [`pyTelegramBotAPI`](https://github.com/eternnoir/pyTelegramBotAPI). Vì vậy, tôi rất thích thú và tham khảo ý kiến ​​phương pháp của anh và quyết định tạo ra một mô-đun trông giống hệt một `telebot` tên là `zalobot` nhưng có một số chức năng hạn chế nhất định do yêu cầu xử lý cũng như hạn chế về cơ chế **Zalo**. 
 ### Bắt đầu
 API này đã được thử nghiệm với Python 3.8-3.11 và Pypy 3. Có hai cách để cài đặt thư viện: 
 * Cài đặt bằng pip (trình quản lý gói Python):
