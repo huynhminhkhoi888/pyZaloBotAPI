@@ -40,7 +40,7 @@ pip install pyZaloBotAPI --upgrade
 
 ## Tiếng Việt
 ### Nội dung 
-* [Giới thiệu](giới-thiệu)
+* [Giới thiệu](#giới-thiệu)
 * [Bắt đầu](#bắt-đầu)
 ### Giới thiệu
 Xin chào mọi người, mình tên KhôiHuynh1109. Bởi vì khi sử dụng **Zalo**, tôi gặp một người bạn sử dụng tài khoản của mình làm bot thực sự giống với bot **Telegram** với mô-đun `pyTelegramBotAPI`. Vì vậy, tôi rất thích thú và tham khảo ý kiến ​​phương pháp của anh và quyết định tạo ra một mô-đun trông giống hệt một `telebot` tên là `zalobot` nhưng có một số chức năng hạn chế nhất định do yêu cầu xử lý cũng như hạn chế về cơ chế **Zalo**. 
